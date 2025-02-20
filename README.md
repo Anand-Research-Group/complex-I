@@ -4,7 +4,7 @@ Project-Repo/
 │
 │-- scripts/                    # Core bioinformatics workflow scripts
 │   ├── 02_fetch_taxonomy_prepare_downloads.py
-│   ├── 03_download_genomes_cds.sh # Fetches required genome/CDS data
+│   ├── 03_download_genomes_cds.sh  # Fetches required genome/CDS data
 │   ├── 04_prescreen_cds.py
 │   ├── 05_extract_genome_metadata.py
 │   ├── 06_extract_seqs_cds.py
@@ -23,6 +23,7 @@ Project-Repo/
 │-- README.md                   # General project overview
 │-- INSTALLATION.md             # Full setup guide
 │-- WORKFLOW.md                 # Explanation of analysis steps
+│
 │-- results/                    # Output files (optional placeholder)
 │   ├── figures/                # Barplots, scatterplots, phylogenetic trees
 │   ├── tables/                 # Summary tables for manuscript
