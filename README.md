@@ -56,11 +56,12 @@ project_root/
 ### 6. **HMM-based Searches**
 - **`08_hmm_pipeline.py`**: Constructs HMM profiles from MSA of clustered sequences.
 - **`09_hmmer_search.py`**: Uses HMMER to search proteomes for Complex I subunits.
-- **`10_process_hmmer_results.py`**: Filters and analyzes HMMER search results.
+- **`10_process_hmmer_results.py`**: Process HMMER search results, combines into dataframe and saves them into csv format.
 
 ### 7. **Post-Processing and Analysis**
-- **`post_search_01.ipynb`**: Notebook for exploratory analysis of search results.
-- **`post_search_02.ipynb`**: Further statistical analysis, including oxygen tolerance assessments.
+- **`post_search_01.ipynb`**: SAME as '10_process_hmmer_results.py'.
+- **`post_search_02.ipynb`**: Intergenic distances and hits cluster analysis.
+- **`post_search_03.ipynb`**: KDE evalues and hits cluster analysis.
 
 ## How to Run the Pipeline
 1. **Set Up Project Directories**:
