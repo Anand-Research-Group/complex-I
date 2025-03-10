@@ -27,6 +27,7 @@ project_root/
 │   ├── external_metadata/  # Additional metadata from external sources
 │   ├── hmm_data/  # Contains HMM profiles and related sequence data
 │   │   ├── profiles/
+│   │   ├── msa/
 │   │   ├── interpro_prot_seqs/
 │   │   ├── cds_prot_seqs/
 │   │   ├── clustered_prot_seqs/
