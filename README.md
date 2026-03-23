@@ -114,4 +114,6 @@ project_root/
 ## Contact
 For questions or issues, please reach out via GitHub Issues.
 
+## Citation
+Akshay Shirsath, Snehal V Khairnar, Abhirath Anand, Divya M Prabhakaran, Amitesh Anand, Hidden Markov Model-Based Prokaryotic Genome Space Mining Reveals the Widespread Pervasiveness of Complex I and Its Potential Evolutionary Scheme, Genome Biology and Evolution, Volume 17, Issue 8, August 2025, evaf154, https://doi.org/10.1093/gbe/evaf154
 ---
